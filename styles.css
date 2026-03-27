@@ -24,7 +24,7 @@ body {
 }
 
 .header {
-  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("/img/fundo.png");
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("img/fundo.png");
   background-size: cover;
   background-position: center;
   padding: 20px;
